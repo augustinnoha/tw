@@ -1,0 +1,8 @@
+/* ./src/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cont{
+    @apply container mx-auto
+}
